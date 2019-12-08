@@ -1,4 +1,4 @@
-# golden_username_retriever
+# Golden Username Retriever
 
 Want some random usernames for your dog loving users? Why not try Golden Retriever Username? It will give you a random combination of descriptive word e.g: "happy" and dog breed "chihuahua" 🐶
 
