@@ -1,12 +1,10 @@
 Gem::Specification.new do |s|
   s.name = %q{golden_username_retriever}
-  s.version = "0.0.3"
+  s.version = "0.0.5"
   s.date = %q{2019-12-07}
   s.summary = %q{Get random usernames for your dog-loving users with golden_username_retriever. It's wuff-derful!}
   s.files         = [
-    "lib/breeds.txt",
-    "lib/descriptions.txt",
-    "lib/golden_username_retriever.rb",
+    "lib/golden_username_retriever.rb"
     ]
   s.test_files    = [
     "test/test_golden_username_retriever.rb"
