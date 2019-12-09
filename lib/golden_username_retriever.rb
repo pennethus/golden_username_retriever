@@ -1,4 +1,7 @@
 module GoldenUsernameRetriever
+	require_relative 'breeds.txt'
+	require_relative 'descriptions.txt'
+	
   GoldenUsernameRetriever::Error = Class.new(StandardError)
 
   def self.get_item(filename)
@@ -7,7 +10,7 @@ module GoldenUsernameRetriever
   end
 
   def self.items_from_file(filename)
-    filepath = File.expand_path("../Golden_Username_Retriever/lib/#{filename}.txt", __FILE__)
+    filepath = File.expand_path("./golden_username_retriever/lib/#{filename}.txt", __FILE__)
     File.read(filepath).split("\n")
   end
 
