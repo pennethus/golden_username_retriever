@@ -2,6 +2,7 @@
 
 Want some random usernames for your dog loving users? Why not try Golden Retriever Username? It will give you a random combination of descriptive word e.g: "happy" and dog breed "chihuahua" 🐶
 
+```
 2.6.5 :011 > GoldenUsernameRetriever.username
  => "friendlySpaniel" 
 2.6.5 :012 > GoldenUsernameRetriever.username
@@ -26,6 +27,7 @@ Want some random usernames for your dog loving users? Why not try Golden Retriev
  => "tidyHavanese" 
 2.6.5 :022 > GoldenUsernameRetriever.username
  => "persistentFrise" 
+ ```
 
 ![](https://media.giphy.com/media/xNPB9OnYtIGzK/giphy.gif)
 
